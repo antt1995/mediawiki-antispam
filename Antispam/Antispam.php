@@ -95,7 +95,7 @@ $wgExtensionCredits['antispam'][] = array(
 	'author' => 'Denis Shagimuratov',
 	'url' => 'https://www.mediawiki.org/wiki/Extension:Antispam',
 	'descriptionmsg' => 'cleantalk-desc',
-	'version' => '2.4',
+	'version' => '2.5',
 );
 
 $wgAutoloadClasses['CTBody'] = __DIR__ . '/Antispam.body.php';
